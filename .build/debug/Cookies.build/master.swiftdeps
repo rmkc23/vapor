@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "210fc6aa25c9dd48d928ee609a998389"
+build_time: [539217568, 799089000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookie+BytesConvertible.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookie+Parse.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookie+Serialize.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookie.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookies+BytesConvertible.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookies+Literal.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookies+Parse.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookies+Serialize.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Cookies.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Request+Cookies.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Cookies/Response+Cookies.swift": [539217423, 0]

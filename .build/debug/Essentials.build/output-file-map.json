@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/master.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/ByteStream.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/ByteStream.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/ByteStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/ByteStream.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/Helpers.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/Helpers.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/Essentials.build/Helpers.swiftdeps"
+  }
+}

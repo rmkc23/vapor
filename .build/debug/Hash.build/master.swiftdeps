@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1843d637a255adc0d0c71c6169a4a13a"
+build_time: [539217549, 971322000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Hash/Hash.swift": [539217435, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Hash/Method.swift": [539217435, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Hash/Random.swift": [539217435, 0]

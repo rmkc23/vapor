@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d34fd70e0cb4b85a009e86436570e7ed"
+build_time: [539217585, 141371000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/main.swift": [538598833, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/PostController.swift": [538523619, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/TimeKeeper.swift": [538598833, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/WeatherController.swift": [538533938, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Models/Post.swift": [538523619, 0]

@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ed8c72ad5017dc83bc1cb6c3ddf4c3a0"
+build_time: [539217529, 719887000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [539217489, 0]

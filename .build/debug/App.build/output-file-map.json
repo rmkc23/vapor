@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/main.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/main.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/PostController.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/TimeKeeper.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/TimeKeeper.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Controllers/TimeKeeper.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/TimeKeeper~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/TimeKeeper.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Controllers/WeatherController.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/WeatherController.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Controllers/WeatherController.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/WeatherController~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/WeatherController.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Post.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/App.build/Post.swiftdeps"
+  }
+}

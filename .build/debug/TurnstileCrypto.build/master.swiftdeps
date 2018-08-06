@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "986d4af8442a30c340ab2305473df058"
+build_time: [539217501, 406957000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/BCrypt.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/Random.swift": [539217489, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/URandom.swift": [539217489, 0]

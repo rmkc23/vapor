@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4eec23f777b97d5e28db34ee12d0d422"
+build_time: [539217501, 406584000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Core-1.0.0/Sources/libc/libc.swift": [539217437, 0]

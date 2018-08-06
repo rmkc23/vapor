@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "35a186893d7400682c60ad0f5c52f41e"
+build_time: [539217539, 18283000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [539217435, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [539217435, 0]

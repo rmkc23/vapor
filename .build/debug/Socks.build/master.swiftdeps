@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4532d6c0b0bd921fdc593b0600c5c245"
+build_time: [539217529, 720257000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/Socks/Socks.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/Socks/SynchronousTCPServer.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/Socks/SynchronousUDPServer.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/Socks/TCPClient.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/Socks/UDPClient.swift": [539217479, 0]

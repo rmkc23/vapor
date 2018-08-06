@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d02b1bc3bafc9423df2c055904f6b003"
+build_time: [539217539, 18160000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON+Bytes.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON+Equatable.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON+Node.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON+Parse.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON+Serialize.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSON.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/JSONRepresentable.swift": [539217484, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/JSON-1.0.3/Sources/JSON/Sequence+Convertible.swift": [539217484, 0]

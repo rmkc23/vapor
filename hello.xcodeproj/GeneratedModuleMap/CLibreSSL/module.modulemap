@@ -1,0 +1,5 @@
+framework module CLibreSSL {
+    umbrella header "/Users/llongo/Desktop/Exercise Files/05_03_hello_end/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+    link framework "CLibreSSL"
+    export *
+}

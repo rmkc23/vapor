@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "de2875301be2f358ac18e105fdad5a0d"
+build_time: [539217501, 407745000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Address+C.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Address.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Bytes.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Conversions.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Error.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/FDSet.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/InternetSocket.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Pipe.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Select.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Socket.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/SocketOptions+Deprecated.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/SocketOptions.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/TCPSocket.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/Types.swift": [539217479, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Socks-1.2.4/Sources/SocksCore/UDPSocket.swift": [539217479, 0]

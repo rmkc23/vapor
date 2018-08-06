@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2297d31e19e2d9b8ca8dc90674331c6e"
+build_time: [539217549, 971342000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": [539217435, 0]

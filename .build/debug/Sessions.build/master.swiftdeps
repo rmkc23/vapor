@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "20879c1914f90e7787c43445b8fbe6d1"
+build_time: [539217571, 936829000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/CacheSessions.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/MemorySessions.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/Request+Session.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/Session.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/SessionsMiddleware.swift": [539217423, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Vapor-1.3.11/Sources/Sessions/SessionsProtocol.swift": [539217423, 0]

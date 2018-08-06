@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0e72543da416ad4fdc945bb160e3b31b"
+build_time: [539217545, 936898000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Cipher/Cipher.swift": [539217435, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Crypto-1.0.1/Sources/Cipher/Method.swift": [539217435, 0]

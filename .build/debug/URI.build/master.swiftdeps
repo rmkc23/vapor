@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "bde71689025723283f46a7f82242f3ea"
+build_time: [539217552, 135230000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/PercentDecoding.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Model/URI+Byte.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Model/URI+Modification.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Model/URI+Ports.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Model/URI+String.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Model/URI.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+Components.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+Public.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Parser/Parser+SubComponents.swift": [539217467, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Engine-1.3.6/Sources/URI/Parser/Parser.swift": [539217467, 0]

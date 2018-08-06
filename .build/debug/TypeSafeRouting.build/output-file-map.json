@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/master.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/Generated.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/Generated.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/Generated~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/Generated.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/StringInitializable.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/StringInitializable.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/StringInitializable~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/StringInitializable.swiftdeps"
+  },
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": {
+    "dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/TypeSafeRoutingError.d",
+    "object": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/TypeSafeRoutingError.swift.o",
+    "swiftmodule": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/TypeSafeRoutingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/.build/debug/TypeSafeRouting.build/TypeSafeRoutingError.swiftdeps"
+  }
+}

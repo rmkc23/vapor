@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7304fc08644ada7207144bd638f96274"
+build_time: [539217501, 406392000]
+inputs:
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [539217464, 0]
+  "/Users/llongo/Desktop/01 Ron Buencamino/Learning Server-Side Swift with Vapor_560883/Exercise Files/04_04/04_04_end/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [539217464, 0]
